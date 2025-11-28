@@ -6,9 +6,9 @@
 
 ### 🚀 Tech Stack & Skills
 
-- 💻 **Languages:** Java, SQL, HTML, CSS, JavaScript (Basics)
-- 🧰 **Frameworks & Tools:** Spring Boot (Basics), JDBC, Git, Maven, Eclipse, IntelliJ IDEA
-- 🗃️ **Databases:** MySQL, PostgreSQL (Basics)
+- 💻 **Languages:** Java, SQL, HTML, CSS, JavaScript 
+- 🧰 **Frameworks & Tools:** Spring Boot, JDBC, Git, Eclipse
+- 🗃️ **Databases:** MySQL, PostgreSQL 
 - ☁️ **Other:** REST APIs, OOP, Data Structures and Algorithms (DSA)
 
 ---
@@ -16,9 +16,7 @@
 ### 🌱 Currently Learning
 
 - Spring Boot & RESTful API Development  
-- Hibernate (JPA)  
-- System Design Basics  
-- Unit Testing with JUnit & Mockito
+- Hibernate (JPA) 
 
 ---
 
@@ -26,21 +24,19 @@
 
 Here are a few beginner-friendly Java projects I've worked on:
 
-- 📝 [Student Management System](https://github.com/Chandana07JS/Student-Management-System)  
+- 📝 [TinDog](https://github.com/Chandana07JS/TinDog)  
   *Java, JDBC, MySQL — CRUD operations for managing student records*
 
-- 💳 [Banking Application](https://github.com/Chandana07JS/Java-Banking-App)  
+- 💳 [MoveIt](https://chandana07js.github.io/MoveIt/)  
   *Core Java — A console-based banking app with deposit, withdraw, and transaction features*
 
-- 📚 [Library Management System](https://github.com/Chandana07JS/Library-Management-System)  
-  *Java + MySQL — A basic system for managing books and borrowers*
 
 ---
 
 ### 📫 Get in Touch
 
 - 📧 Email: [chandanajs73@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/chandana-j-s)
 
 ---
 
