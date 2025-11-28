@@ -36,7 +36,7 @@ Here are a few beginner-friendly Java projects I've worked on:
 ### 📫 Get in Touch
 
 - 📧 Email: [chandanajs73@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/chandana-j-s)
+- 💼 LinkedIn: [linkedin.com/in/chandana-j-s](https://linkedin.com/in/chandana-j-s)
 
 ---
 
