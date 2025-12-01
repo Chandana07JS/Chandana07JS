@@ -25,10 +25,10 @@
 Here are a few beginner-friendly Java projects I've worked on:
 
 - 📝 [TinDog](https://github.com/Chandana07JS/TinDog)  
-  *Java, JDBC, MySQL — CRUD operations for managing student records*
+  *HTML, CSS and JS- a beautiful partner matching website for pets*
 
 - 💳 [MoveIt](https://chandana07js.github.io/MoveIt/)  
-  *Core Java — A console-based banking app with deposit, withdraw, and transaction features*
+  *User friendly website MoveIt*
 
 
 ---
