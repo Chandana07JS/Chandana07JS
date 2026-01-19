@@ -16,7 +16,8 @@
 ### 🌱 Currently Learning
 
 - Spring Boot & RESTful API Development  
-- Hibernate (JPA) 
+- Hibernate (JPA)
+- DevOps
 
 ---
 
